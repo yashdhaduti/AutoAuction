@@ -1,0 +1,5 @@
+Gucci Shirt,An expensive shirt made by Gucci,100.0,0,1000.0,gucci
+Off-White Shirt,An expensive shirt made by Off-White,50.0,0,500.0,offwhite
+Nike Shirt,An athletic shirt made by Nike,10.0,0,100.0,nike
+Chanel Shirt,A nice shirt made by Chanel,30.0,0,250.0,chanel
+Gildan Shirt,An affordable shirt from Gildan,5.0,0,30.0,gildan
